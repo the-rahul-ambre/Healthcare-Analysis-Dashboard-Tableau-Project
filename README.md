@@ -146,9 +146,7 @@ These filters allow users to explore specific segments.
 
 ## 📷 Dashboard Preview
 
-(Add Screenshot Here)
-
-Example File Name:
+Example File Name:https://github.com/the-rahul-ambre/Healthcare-Analysis-Dashboard-Tableau-Project/blob/main/Health%20Care%20Analysis.png
 healthcare_tableau_dashboard.png
 
 ---
